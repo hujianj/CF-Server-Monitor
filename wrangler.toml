@@ -36,3 +36,7 @@ new_sqlite_classes = ["MetricsBroadcaster"]
 [dev]
 port = 8787
 local_protocol = "https"
+
+
+[vars]
+API_SECRET = "Hujianjun9"
